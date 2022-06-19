@@ -1,2 +1,3 @@
 # typescript-practice-with-react
-ㅈㄱㄴ 
+
+## 타입스크립트 연습
